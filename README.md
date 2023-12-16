@@ -1,4 +1,4 @@
-# Chrome Extension: Cricket Matches
+![image](https://github.com/yashbaldev/chrome-extension-cricket-matches/assets/113610963/9fa06151-1f24-4978-bd95-037124dfb687)# Chrome Extension: Cricket Matches
 
 ## Overview
 
@@ -27,9 +27,6 @@ The extension icon should now appear in your Chrome toolbar.
 2. The popup will display a list of ongoing cricket matches.
 3. Click on a match to view detailed information, including scores and team details.
 
-## Screenshots
-
-Include screenshots of the extension in action to give users a visual representation of its features and interface.
 
 ## Contributing
 
