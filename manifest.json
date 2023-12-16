@@ -1,0 +1,14 @@
+{
+    "name": "Cricket current matches",
+    "description":"Displays cricket current matches",
+    "version": "1.0.0",
+    "manifest_version":3,
+    "author": "Yash Baldev",
+    "icons":{ "16": "icons8-world-cup-16.png",
+              "48": "icons8-world-cup-48.png",
+            "128": "icons8-world-cup-100.png"},
+    "action": {
+        "default_popup": "index.html",
+        "default_title":"Cricket current matches"
+     }
+}
